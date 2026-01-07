@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "Stabbed for not lending 200 dollars fast enough",
     "long": ""
   },
   "death_type": "200 Dollars",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "When money talks, sometimes it screams"
 }
